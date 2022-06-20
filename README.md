@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yatin1802
 - 👀 I’m interested in the development of web based apps
-- 🌱 I’m currently learning Javascript and Jquery
+- 🌱 I’m currently learning Javascript and PHP
 - 💞️ Reach me at yatin31415@gmail.com
 
 <!---
